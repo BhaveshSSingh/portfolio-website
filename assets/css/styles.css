@@ -377,6 +377,9 @@ a:-webkit-any(button) {
 .footer__icon:hover {
   color: var(--accent-color);
 }
+.footer__text {
+  color: var(--light-color);
+}
 /* Media Queries */
 @media screen and (min-width: 768px) {
   body {
